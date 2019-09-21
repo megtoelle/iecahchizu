@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://keeriuheiy.floatleft.co.uk/sitemap.xml
